@@ -51,7 +51,7 @@ Se identificaron comportamientos como:
 ---
 
 ## Tecnologías utilizadas
-- Python (Pandas, NumPy, Seaborn Objects)
+- Python (Pandas, NumPy, Scikit-learn, Seaborn)
 - SQL
 
 ---
