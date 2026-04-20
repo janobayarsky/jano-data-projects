@@ -12,14 +12,14 @@ Los proyectos combinan limpieza de datos, análisis exploratorio, visualización
 - Modelos de clasificación (k-NN) para predecir formalidad laboral (91,56% accuracy)
 - Modelos de regresión (multivariada y Ridge) para estimación de ingresos
 - Clustering (K-Means, DBSCAN) y PCA para segmentación socioeconómica  
-👉 [Ver proyecto EcoBici](-/Análisis y Modelado Predictivo de Ingresos y Formalidad Laboral (EPH - INDEC))
+👉 [Ver proyecto](./analisis-ecobici-demanda)
 ---
 
 ### 🚲 Análisis y Modelado de Demanda de Bicicletas (EcoBici CABA)
 - Limpieza y transformación de datos con Python y SQL  
 - Análisis exploratorio sobre uso, estacionalidad y clima  
 - Modelos de regresión para estimación de demanda  
-👉 [Ver proyecto](./Análisis y Modelado de Demanda de Bicicletas (EcoBici CABA))
+👉 [Ver proyecto](./analisis-eph-ingresos-formalidad)
 
 ---
 
