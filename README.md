@@ -1,42 +1,33 @@
 # 📊 Portfolio de Proyectos de Análisis y Ciencia de Datos
 
-Este repositorio reúne proyectos realizados sobre datasets reales en el contexto de la facultad, enfocados en extraer conclusiones, identificar patrones y construir modelos predictivos.
-
+Este repositorio reúne proyectos desarrollados durante mi formación en Ciencias de Datos en la UBA.  
+Los trabajos están enfocados en análisis de datos, modelado predictivo y extracción de patrones a partir de datos reales.
 Los proyectos combinan limpieza de datos, análisis exploratorio, visualización y técnicas de machine learning.
 
 ---
 
 ## 📁 Proyectos
 
-### 📊 EPH - Análisis de empleo en Argentina
-Análisis de datos de la Encuesta Permanente de Hogares (EPH), que releva información trimestral sobre individuos de todo el país.  
-El objetivo es estudiar cómo variables como nivel educativo, edad, sexo y región influyen en el tipo de empleo (formal/informal) y en los ingresos, incluyendo modelos de clasificación, clustering y regresión.
+### 📊 Análisis y Modelado Predictivo de Ingresos y Formalidad Laboral (EPH - INDEC)
+- Modelos de clasificación (k-NN) para predecir formalidad laboral (91,56% accuracy)
+- Modelos de regresión (multivariada y Ridge) para estimación de ingresos
+- Clustering (K-Means, DBSCAN) y PCA para segmentación socioeconómica  
+👉 [Ver proyecto EcoBici](-/Análisis y Modelado Predictivo de Ingresos y Formalidad Laboral (EPH - INDEC))
+---
 
-📂 [Ver proyecto](./analisis_eph_argentina)
+### 🚲 Análisis y Modelado de Demanda de Bicicletas (EcoBici CABA)
+- Limpieza y transformación de datos con Python y SQL  
+- Análisis exploratorio sobre uso, estacionalidad y clima  
+- Modelos de regresión para estimación de demanda  
+👉 [Ver proyecto](./Análisis y Modelado de Demanda de Bicicletas (EcoBici CABA))
 
 ---
 
-### 🚲 EcoBici - Análisis de uso en Ciudad Universitaria
-Estudio del comportamiento del sistema EcoBici a partir de datos horarios, analizando patrones de uso, disponibilidad y factores que afectan la demanda, incluyendo modelos de regresión para explorar relaciones entre variables.
-📂 [Ver proyecto](./análisis_ecobicis_ciudad_universitaria)
-
----
-
-## 🛠️ Herramientas utilizadas
-
-**Lenguajes**
-- Python
+## 🛠️ Tecnologías utilizadas
+- Python (Pandas, NumPy, Scikit-learn, Seaborn Objects)
 - SQL
-
-**Análisis de datos**
-- Pandas
-- NumPy
-
-**Visualización**
-- Seaborn Objects
-
-**Machine Learning**
-- Scikit-learn
+- Excel
+- Power BI
 
 ---
 
@@ -47,3 +38,6 @@ Aplicar herramientas de análisis y ciencia de datos sobre problemas reales, des
 
 ## 📌 Notas
 Cada proyecto incluye su propio README con más detalles sobre el análisis realizado.
+
+---
+
