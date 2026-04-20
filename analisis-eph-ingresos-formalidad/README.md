@@ -50,7 +50,7 @@ Este proyecto utiliza datos de la Encuesta Permanente de Hogares (EPH - INDEC) p
 ---
 
 ## Tecnologías utilizadas
-- Python (Pandas, NumPy, Scikit-learn, Seaborn Objects)
+- Python (Pandas, NumPy, Scikit-learn, Seaborn)
 
 ---
 
